@@ -2,12 +2,6 @@
 
 Trình xem model PMX và chuyển động VMD chạy ngay trên trình duyệt (cài được như app).
 
-## Đưa lên GitHub Pages
-1. Tạo repo, tải **tất cả** file trong thư mục này lên (cùng một cấp, không bỏ vào thư mục con):
-   `index.html`, `sw.js`, `manifest.webmanifest`, `icon-192.png`, `icon-512.png`, `loading.gif`.
-2. Settings → Pages → Deploy from a branch → `main` / `(root)` → Save.
-3. Mở `https://<tên>.github.io/<repo>/`.
-
 ## Cài như app
 - Android/Chrome: menu ⚙️ → **Cài app** (hoặc menu trình duyệt → Cài đặt ứng dụng).
 - iPhone/Safari: nút Chia sẻ → **Thêm vào Màn hình chính**.
